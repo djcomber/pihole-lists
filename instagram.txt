@@ -3,3 +3,7 @@ graph.instagram.com
 edge-chat.instagram.com
 i.instagram.com
 instagram.fbne8-1.fna.fbcdn.net
+cdninstagram.com
+ig.me
+instagram.com
+instagram.c10r.facebook.com
