@@ -1,2 +1,5 @@
 tuenti.com
 
+weibo.cn
+weibo.com
+weibocdn.com
