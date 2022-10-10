@@ -1,6 +1,3 @@
-#facebook
-facebook.com
-
 #youtube
 youtube.com
 m.youtube.com
@@ -13,9 +10,9 @@ s.youtube.com
 fcmatch.youtube.com
 www.youtube.com
 
-#meta
+tuenti.com
 
-#insta
+
 
 #whatpad
 
