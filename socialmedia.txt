@@ -3,3 +3,5 @@ tuenti.com
 weibo.cn
 weibo.com
 weibocdn.com
+
+Toomics.com
