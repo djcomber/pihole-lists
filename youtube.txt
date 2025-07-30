@@ -4,8 +4,12 @@ m.youtube.com
 img.youtube.com
 youtube-ui.l.google.com
 suggestqueries-clients6.youtube.com
-youtube.com
 accounts.youtube.com
 s.youtube.com
 fcmatch.youtube.com
 www.youtube.com
+ytimg.com
+googlevideo.com
+yt3.ggpht.com
+youtubei.googleapis.com
+youtube.googleapis.com
