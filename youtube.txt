@@ -13,3 +13,4 @@ googlevideo.com
 yt3.ggpht.com
 youtubei.googleapis.com
 youtube.googleapis.com
+blog.youtube
